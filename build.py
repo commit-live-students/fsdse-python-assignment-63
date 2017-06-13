@@ -2,7 +2,5 @@ import numpy as np
 
 
 def solution():
-    """
-    Enter your code here
-    """
-
+    return np.reshape(np.arange(2,11),(3,3))
+#print solution()
