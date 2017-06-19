@@ -2,7 +2,6 @@ import numpy as np
 
 
 def solution():
-    """
-    Enter your code here
-    """
-
+    matrix=np.arange(2,11)
+    m=matrix.reshape(3,3)
+    return m
